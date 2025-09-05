@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I speak spanish! 🇬🇹
 -->
+
+
+- 🌱 I’m currently learning python
+- 💬 Ask me about soccer ⚽!
+- ⚡ Fun fact: I speak spanish! 🇬🇹
